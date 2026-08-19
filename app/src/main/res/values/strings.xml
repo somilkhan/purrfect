@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Purrfect</string>
+    <string name="app_name" translatable="false">NexPatch</string>
     <string name="instagram_json_select_config">Select JSON Config</string>
     <string name="instagram_json_target_not_specified">Target package not specified.</string>
     <string name="instagram_json_sent">Sent to Instagram.</string>
